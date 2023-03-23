@@ -1,0 +1,3 @@
+* Configurar Rutas en un Proyecto
+1. Escribir el comando: 'yarn add react-router-dom'.
+2. Dirigirse a la carpeta de router (Rutas) y creamos la ruta de la aplicación. 
